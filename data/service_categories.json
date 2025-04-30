@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "code": "BUS_SOL",
+      "name": "Business Solutions",
+      "slug":"business-solutions",
+      "description": "prevent data loss with encrypted storage and virtualized...",
+      "createdBy": null,
+      "modifiedBy": null
+    },
+    {
+      "id": 2,
+      "code": "IOS_ANDR",
+      "name": "iOS/Android App",
+      "slug":"mobile_application_development",
+      "description": "prevent data loss with encrypted storage and virtualized...",
+      "createdBy": null,
+      "modifiedBy": null
+    },
+    {
+      "id": 3,
+      "code": "UI_UX",
+      "name": "UI/UX Design",
+      "slug":"ui_ux_design",
+      "description": "prevent data loss with encrypted storage and virtualized...",
+      "createdBy": null,
+      "modifiedBy": null
+    },
+    {
+      "id": 4,
+      "code": "CUST_FE",
+      "name": "Custom Front-End",
+      "slug":"web_application_development",
+      "description": "prevent data loss with encrypted storage and virtualized...",
+      "createdBy": null,
+      "modifiedBy": null
+    },
+    {
+      "id": 5,
+      "code": "E_COM",
+      "name": "E-Commerce",
+      "slug":"e_commerce_integration",
+      "description": "prevent data loss with encrypted storage and virtualized...",
+      "createdBy": null,
+      "modifiedBy": null
+    },
+    {
+      "id": 6,
+      "code": "QA_TEST",
+      "name": "Quality Assurance & Testing",
+      "slug":"qa_testing_automation",
+      "description": "prevent data loss with encrypted storage and virtualized...",
+      "createdBy": null,
+      "modifiedBy": null
+    },
+    {
+      "id": 7,
+      "code": "QA_TEST_2",
+      "name": "Quality Assurance & Testing 2",
+      "slug":"qa_testing_automation",
+      "description": "prevent data loss with encrypted storage and virtualized... 1",
+      "createdBy": null,
+      "modifiedBy": null
+    }
+  ]
