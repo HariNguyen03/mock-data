@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Billy Mark",
+    "position": "CEO/Co-Founder",
+    "biography": "Enter member description here which describes the position",
+    "photoPath": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t2.jpg",
+    "email": "Billy Mark"
+  },
+  {
+    "name": "Ben Sewell",
+    "position": "Director of Operations",
+    "biography": "Enter member description here which describes the position",
+    "photoPath": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t1.jpg",
+    "email": "Ben Sewell"
+  },
+  {
+    "name": "David Tuche",
+    "position": "Office Manager",
+    "biography": "Enter member description here which describes the position",
+    "photoPath": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t5.jpg",
+    "email": "David Tuche"
+  },
+    {
+    "name": "Aron Dusker",
+    "position": "Project Manager",
+    "biography": "Enter member description here which describes the position",
+    "photoPath": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t6.jpg",
+    "email": "Aron Dusker"
+  }
+]

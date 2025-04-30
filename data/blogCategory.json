@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "code": "blc1",
+    "name": "review",
+    "slug": "reactjs",
+    "description": "i find carr"
+  },
+  {
+    "id": 2,
+    "code": "blc2",
+    "name": "tech",
+    "slug": "javascrip",
+    "description": "how are you today"
+  },
+  {
+    "id": 3,
+    "code": "blc3",
+    "name": "education",
+    "slug": "Spring boot",
+    "description": "helo"
+  },
+  {
+    "id": 4,
+    "code": "blc4",
+    "name": "travel",
+    "slug": "Java",
+    "description": "hai"
+  },
+  {
+    "id": 5,
+    "code": "blc5",
+    "name": "health",
+    "slug": "Cong nghe",
+    "description": "xin chào"
+  },
+  {
+    "id": 6,
+    "code": "TECH001",
+    "name": "techbyte",
+    "slug": "tech-news",
+    "description": "Latest updates about technology"
+  }
+]

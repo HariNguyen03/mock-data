@@ -1,7 +1,25 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
+const fs = require('fs');
+const path = require('path');
+
+// Đường dẫn đến thư mục chứa các file JSON
+const dataDir = path.join(__dirname, 'data');
+
+// Đọc tất cả file JSON trong thư mục data/
+const db = {};
+fs.readdirSync(dataDir).forEach(file => {
+    if (file.endsWith('.json')) {
+        const filePath = path.join(dataDir, file);
+        const fileContent = fs.readFileSync(filePath, 'utf8');
+        const key = path.basename(file, '.json');
+        db[key] = JSON.parse(fileContent);
+    }
+});
+
+// Tạo router từ dữ liệu hợp nhất
+const router = jsonServer.router(db);
 
 server.use(middlewares);
 

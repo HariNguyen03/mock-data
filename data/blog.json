@@ -1,0 +1,52 @@
+[
+  {
+    "id": 5,
+    "author": "Hoang E",
+    "content": "Cách chăm sóc sức khỏe tốt hơn mỗi ngày.",
+    "createdAt": "2024-04-03T00:00:00",
+    "description": "Mô tả bài viết 5",
+    "image": "https://placehold.co/600x400",
+    "title": "Bí quyết chăm sóc sức khỏe",
+    "categoryName": "health"
+  },
+  {
+    "id": 4,
+    "author": "Pham D",
+    "content": "Trải nghiệm thú vị khi du lịch Châu Âu!",
+    "createdAt": "2024-04-02T00:00:00",
+    "description": "Mô tả bài viết 4",
+    "image": "https://placehold.co/600x400",
+    "title": "Kinh nghiệm du lịch Châu Âu",
+    "categoryName": "travel"
+  },
+  {
+    "id": 3,
+    "author": "Le Van C",
+    "content": "Nếu bạn mới bắt đầu học lập trình, hãy tìm hiểu về các ngôn ngữ như Python và JavaScript. Python phù hợp cho khoa học dữ liệu và AI, trong khi JavaScript lại phổ biến trong phát triển web. Quan trọng nhất là thực hành thường xuyên và tham gia các dự án thực tế.",
+    "createdAt": "2024-04-01T00:00:00",
+    "description": "Gợi ý về cách học lập trình hiệu quả cho người mới bắt đầu.",
+    "image": "https://placehold.co/600x400",
+    "title": "Học lập trình như thế nào?",
+    "categoryName": "education"
+  },
+  {
+    "id": 2,
+    "author": "Tran Thi B",
+    "content": "Trí tuệ nhân tạo (AI) đang ngày càng thay đổi cách con người làm việc và tương tác với công nghệ. Với sự phát triển của các mô hình ngôn ngữ lớn như GPT-4, AI không chỉ hỗ trợ sáng tạo nội dung mà còn giúp tối ưu hóa quy trình làm việc trong nhiều lĩnh vực khác nhau.",
+    "createdAt": "2024-03-31T00:00:00",
+    "description": "AI đang tạo ra bước đột phá trong nhiều ngành công nghiệp, từ chăm sóc sức khỏe đến tài chính.",
+    "image": "https://placehold.co/600x400",
+    "title": "AI và những thay đổi lớn trong năm 2024",
+    "categoryName": "tech"
+  },
+  {
+    "id": 1,
+    "author": "Nguyen Van A",
+    "content": "Bài viết rất hay!",
+    "createdAt": "2024-03-30T00:00:00",
+    "description": "Mô tả bài viết 1",
+    "image": "https://placehold.co/600x400",
+    "title": "Tiêu đề bài viết 1",
+    "categoryName": "review"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 4,
+    "code": "3be20fce-a48c-47f6-a747-8d44edacb104",
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@gmail.com",
+    "phone": "0987654321",
+    "company": "Công ty ABC",
+    "subject": "Yêu cầu tư vấn",
+    "message": "Tôi cần tư vấn về dịch vụ của quý công ty",
+    "fileId": null,
+    "status": "PROCESSING",
+    "createdBy": null,
+    "modifiedBy": null
+  }
+]

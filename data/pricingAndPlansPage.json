@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "code": "PRP01",
+    "name": "Embedded Pricing",
+    "description": "See our content marketing pricing below",
+    "price": 19,
+    "currency": "$",
+    "features": [
+      "Recurring subscriptions",
+      "Billing portal table (in-app)",
+      "One-time purchases",
+      "No-code style editor",
+      "Custom CSS and markup",
+      "Remote support"
+    ],
+    "duration": "month",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "code": "PRP02",
+    "name": "Experiments",
+    "description": "See our content marketing pricing below",
+    "price": 49,
+    "currency": "$",
+    "features": [
+      "AB-test monetization",
+      "Clear data-backed outcomes",
+      "Packaging experiments",
+      "Custom CSS and markup",
+      "Pricing experiments",
+      "Remote support"
+    ],
+    "duration": "month",
+    "status": "string"
+  },
+  {
+    "id": 3,
+    "code": "PRP03",
+    "name": "Custom",
+    "description": "See our content marketing pricing below",
+    "price": 79,
+    "currency": "$",
+    "features": [
+      "24/7 system monitoring",
+      "Support on technical execution",
+      "Volume discounts",
+      "AB-test monetization",
+      "Custom CSS and markup",
+      "Remote support"
+    ],
+    "duration": "month",
+    "status": "string"
+  }
+]

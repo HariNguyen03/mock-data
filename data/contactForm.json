@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "code": "CONT_8f0b2b3b-1b11-4007-972a-07c44ea3bc71",
+    "status": "PENDING",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+84123456789",
+    "company": "ABC Company",
+    "subject": "Product Inquiry",
+    "message": "I would like to know more about your services",
+    "inquiryDetails": "Others",
+    "createdDate": "2025-04-15T01:20:31.7176719"
+  }
+]
