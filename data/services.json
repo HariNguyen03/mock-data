@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "code": "BUS_SOL",
+    "name": "Business Solutions",
+    "slug": "business-solutions",
+    "title":"Your local IT specialist",
+    "description": "We provide a fully customised service, designed to meet your specific IT requirements, business set up and budget.",
+    "avatar_path":"https://live.21lab.co/kiraz/wp-content/uploads/2024/10/a3.png",
+    "createdBy": null,
+    "modifiedBy": null
+  },
+  {
+    "id": 2,
+    "code": "IOS_ANDR",
+    "name": "iOS/Android App",
+    "slug":"Build sleek, secure apps that scale.",
+    "title":"Your local IT specialist",
+    "description": "prevent data loss with encrypted storage and virtualized...",
+    "avatar_path":"https://live.21lab.co/kiraz/wp-content/uploads/2024/10/img1.png",
+    "createdBy": null,
+    "modifiedBy": null
+  },
+  {
+    "id": 3,
+    "code": "UI_UX",
+    "name": "UI/UX Design",
+    "slug":"ui_ux_design",
+    "title":"Designing Ideas into Possibilities.",
+    "description": "Develop a great online and mobile user experience for your customers. Your product might be sophisticated, but the user interface must be simple.",
+    "avatar_path":"https://live.21lab.co/kiraz/wp-content/uploads/2024/10/u.png",
+    "createdBy": null,
+    "modifiedBy": null
+  },
+  {
+    "id": 4,
+    "code": "CUST_FE",
+    "name": "Web Application Development",
+    "title":"High-performance and User-friendly",
+    "slug":"web_application_development",
+    "description": "We create outstanding web applications. We’ve been designing, building and supporting custom web applications for more than a decade.",
+    "avatar_path":"https://live.21lab.co/kiraz/wp-content/uploads/2024/10/s3.png",
+    "createdBy": null,
+    "modifiedBy": null
+  },
+  {
+    "id": 5,
+    "code": "E_COM",
+    "name": "E-Commerce Integration",
+    "slug":"e_commerce_integration",
+    "title":"High-performance and User-friendly",
+    "description": "We offer eCommerce solutions, where your businesses can operate 24 hours a day, 7 days a week, and reach customers in any time zone.",
+    "avatar_path":"https://live.21lab.co/kiraz/wp-content/uploads/2024/10/d-1.png",
+    "createdBy": null,
+    "modifiedBy": null
+  },
+  {
+    "id": 6,
+    "code": "QA_TEST",
+    "name": "Quality Assurance & Testing",
+    "slug":"qa_testing_automation",
+    "title":"Quality testing included in every project.",
+    "description": "With 450+ testers, Kiraz Technology focuses on scaling your product functionality, optimizing delivery cycles, and accelerating speed-to-market.",
+     "avatar_path":"https://live.21lab.co/kiraz/wp-content/uploads/2024/10/Group-13.png",
+    "createdBy": null,
+    "modifiedBy": null
+  }
+]
