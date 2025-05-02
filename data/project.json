@@ -6,7 +6,7 @@
     "defaultImage": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p2-1.jpg",
     "hoverImage": "https://picsum.photos/800/600?random=1",
     "description": "A SaaS-based platform for IT support and ticketing.",
-    "slides": [
+    "images": [
       "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p2-1.jpg",
       "https://picsum.photos/800/600?random=101",
       "https://picsum.photos/800/600?random=102"
@@ -23,7 +23,7 @@
     "defaultImage": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/f.jpg",
     "hoverImage": "https://picsum.photos/800/600?random=2",
     "description": "Remote monitoring and IT asset management suite.",
-    "slides": [
+    "images": [
       "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/f.jpg",
       "https://picsum.photos/800/600?random=103",
       "https://picsum.photos/800/600?random=104"
@@ -40,7 +40,7 @@
     "defaultImage": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/lg.jpg",
     "hoverImage": "https://picsum.photos/800/600?random=3",
     "description": "Modern UI for fintech mobile apps.",
-    "slides": [
+    "images": [
       "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/lg.jpg",
       "https://picsum.photos/800/600?random=105",
       "https://picsum.photos/800/600?random=106"
@@ -57,7 +57,7 @@
     "defaultImage": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p6.jpg",
     "hoverImage": "https://picsum.photos/800/600?random=4",
     "description": "E-commerce app with real-time inventory sync.",
-    "slides": [
+    "images": [
       "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p6.jpg",
       "https://picsum.photos/800/600?random=107",
       "https://picsum.photos/800/600?random=108"
@@ -74,7 +74,7 @@
     "defaultImage": "https://picsum.photos/800/600?random=5",
     "hoverImage": "https://picsum.photos/800/600?random=6",
     "description": "Custom ERP system for manufacturing firm.",
-    "slides": [
+    "images": [
       "https://picsum.photos/800/600?random=109",
       "https://picsum.photos/800/600?random=110",
       "https://picsum.photos/800/600?random=111"
@@ -91,7 +91,7 @@
     "defaultImage": "https://picsum.photos/800/600?random=7",
     "hoverImage": "https://picsum.photos/800/600?random=8",
     "description": "On-site IT troubleshooting service system.",
-    "slides": [
+    "images": [
       "https://picsum.photos/800/600?random=112",
       "https://picsum.photos/800/600?random=113",
       "https://picsum.photos/800/600?random=114"
