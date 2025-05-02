@@ -1,0 +1,54 @@
+{
+    "collaborations": [
+        {
+            "partner_name": "TechCorp",
+            "logo_url": "https://example.com/logos/techcorp.png"
+        },
+        {
+            "partner_name": "FashionHub",
+            "logo_url": "https://example.com/logos/fashionhub.png"
+        },
+        {
+            "partner_name": "EcoWear",
+            "logo_url": "https://example.com/logos/ecowear.png"
+        },
+        {
+            "partner_name": "StyleNet",
+            "logo_url": "https://example.com/logos/stylenet.png"
+        },
+        {
+            "partner_name": "TrendyLabs",
+            "logo_url": "https://example.com/logos/trendylabs.png"
+        }
+    ],
+    "history": [
+        {
+            "year": 1988,
+            "event": "Kiraz begins life as the networking division of ThemeForest. ThemeForest is a software company that was formed in Dec 1988 following a management buyout of LineThemes."
+        },
+        {
+            "year": 1990,
+            "event": "Kiraz launches as an independent business. Kiraz moves into our New York offices. Those offices became home for the next 20 years as the business continued to grow from strength to strength."
+        },
+        {
+            "year": 2003,
+            "event": "Kiraz successfully partners with Envato, a growing provider of local Australia IT Support and IT Services to both local and overseas businesses."
+        },
+        {
+            "year": 2009,
+            "event": "The Kiraz.io brand was born in 2009. With its headquarters in Melbourne, the company rapidly expanded throughout Australia, the UK, Canada, the Middle East and China."
+        },
+        {
+            "year": 2014,
+            "event": "Kiraz was acquired by Linethemes in 2014, which lead to its emerging as a full service agency with expertise in web and application development, online marketing and digital strategy."
+        },
+        {
+            "year": 2020,
+            "event": "Today Kiraz is renowned in the industry for delivering a cost-effective, reliable service. With 150+ professionals across various locations, we are able to deliver projects of all sizes."
+        },
+        {
+            "year": 2024,
+            "event": "The service team at Kiraz made it through to the final of the Service Desk Industry (SDI) Best Small Managed Service Desk Provider (MSP) awards. We are incredibly proud of the external recognition for our team, who have completed extensive training and have worked incredibly hard over an extended period to ensure we consistently meet the needs of our customers with IT Solutions, a UK provider of outsourced IT Services."
+        }
+    ]
+}
