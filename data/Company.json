@@ -1,25 +1,11 @@
 {
-    "collaborations": [
-        {
-            "partner_name": "TechCorp",
-            "logo_url": "https://example.com/logos/techcorp.png"
-        },
-        {
-            "partner_name": "FashionHub",
-            "logo_url": "https://example.com/logos/fashionhub.png"
-        },
-        {
-            "partner_name": "EcoWear",
-            "logo_url": "https://example.com/logos/ecowear.png"
-        },
-        {
-            "partner_name": "StyleNet",
-            "logo_url": "https://example.com/logos/stylenet.png"
-        },
-        {
-            "partner_name": "TrendyLabs",
-            "logo_url": "https://example.com/logos/trendylabs.png"
-        }
+    "partners": [
+        "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+        "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+        "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+        "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+        "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+        "https://cdn-icons-png.flaticon.com/512/616/616408.png"
     ],
     "history": [
         {
