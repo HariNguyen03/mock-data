@@ -20,7 +20,7 @@
   {
     "id": 2,
     "category": "IT Support",
-    "name": "Pixel Lak",
+    "name": "Zaloku.app",
     "defaultImage": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/f.jpg",
     "hoverImage": "https://picsum.photos/800/600?random=2",
     "description": "Remote monitoring and IT asset management suite.",
@@ -38,7 +38,7 @@
   {
     "id": 3,
     "category": "UI/UX Design",
-    "name": "Design Project 1",
+    "name": "Avante.vn",
     "defaultImage": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/lg.jpg",
     "hoverImage": "https://picsum.photos/800/600?random=3",
     "description": "Modern UI for fintech mobile apps.",
@@ -56,7 +56,7 @@
   {
     "id": 4,
     "category": "Web & App Development",
-    "name": "Web Project 1",
+    "name": "Lotus.io",
     "defaultImage": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p6.jpg",
     "hoverImage": "https://picsum.photos/800/600?random=4",
     "description": "E-commerce app with real-time inventory sync.",
@@ -74,7 +74,7 @@
   {
     "id": 5,
     "category": "Custom Software",
-    "name": "Software Solution 1",
+    "name": "Avante.vn",
     "defaultImage": "https://picsum.photos/800/600?random=5",
     "hoverImage": "https://picsum.photos/800/600?random=6",
     "description": "Custom ERP system for manufacturing firm.",
@@ -91,8 +91,8 @@
   },
   {
     "id": 6,
-    "category": "IT Support",
-    "name": "Pixel Lak",
+    "category": "Web & App Development",
+    "name": "Tikpay.com",
     "defaultImage": "https://picsum.photos/800/600?random=7",
     "hoverImage": "https://picsum.photos/800/600?random=8",
     "description": "On-site IT troubleshooting service system.",
