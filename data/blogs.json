@@ -123,7 +123,7 @@
       "description": "Đọc sách giúp cải thiện tư duy và sáng tạo như thế nào?",
       "image": "https://placehold.co/600x400",
       "title": "Sức mạnh của việc đọc sách",
-      "categoryName": "lifestyle"
+      "categoryName": "5"
     },
     {
       "id": 12,
@@ -143,7 +143,7 @@
       "description": "So sánh AirPods, Sony WF-1000XM4, và Bose QuietComfort.",
       "image": "https://placehold.co/600x400",
       "title": "Top tai nghe không dây 2024",
-      "categoryName": "review"
+      "categoryName": "9"
     },
     {
       "id": 10,
@@ -153,7 +153,7 @@
       "description": "Hành trình thưởng thức sushi, ramen, và hơn thế nữa tại Nhật Bản.",
       "image": "https://placehold.co/600x400",
       "title": "Ẩm thực Nhật Bản: Hành trình thú vị",
-      "categoryName": "travel"
+      "categoryName": "6"
     },
     {
       "id": 9,
@@ -163,7 +163,7 @@
       "description": "Mẹo cải thiện chất lượng giấc ngủ cho người bận rộn.",
       "image": "https://placehold.co/600x400",
       "title": "Giấc ngủ và sức khỏe",
-      "categoryName": "health"
+      "categoryName": "1"
     },
     {
       "id": 8,
@@ -173,7 +173,7 @@
       "description": "AWS, Azure, và Google Cloud: Nền tảng nào phù hợp cho bạn?",
       "image": "https://placehold.co/600x400",
       "title": "Điện toán đám mây cho doanh nghiệp",
-      "categoryName": "tech"
+      "categoryName": "2"
     },
     {
       "id": 7,
@@ -247,11 +247,11 @@
     }
   ],
   "page": {
-    "total_pages": 3,
-    "has_next": true,
+    "total_pages": 1,
+    "has_next": false,
     "has_previous": false,
     "current_page": 1,
-    "total_elements": 24
+    "total_elements": 5
   },
   "extraData": null
 }
