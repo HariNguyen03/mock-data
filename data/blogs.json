@@ -248,10 +248,10 @@
   ],
   "page": {
     "total_pages": 1,
-    "has_next": false,
+    "has_next": true,
     "has_previous": false,
     "current_page": 1,
-    "total_elements": 5
+    "total_elements": 24
   },
   "extraData": null
 }
