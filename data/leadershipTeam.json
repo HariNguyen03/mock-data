@@ -1,44 +1,52 @@
-[
-  {
-    "name": "Billy Mark",
-    "position": "CEO/Co-Founder",
-    "description": "Enter member description here which describes the position",
-    "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t2.jpg",
-    "email": "Billy Mark"
-  },
-  {
-    "name": "Ben Sewell",
-    "position": "Director of Operations",
-    "description": "Enter member description here which describes the position",
-    "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t1.jpg",
-    "email": "Ben Sewell"
-  },
-  {
-    "name": "David Tuche",
-    "position": "Office Manager",
-    "description": "Enter member description here which describes the position",
-    "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t5.jpg",
-    "email": "David Tuche"
-  },
-  {
-    "name": "Aron Dusker",
-    "position": "Project Manager",
-    "description": "Enter member description here which describes the position",
-    "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t6.jpg",
-    "email": "Aron Dusker"
-  },
-  {
-    "name": "John Steven",
-    "position": "Lead Marketing Manager",
-    "description": "Enter member description here which describes the position",
-    "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t3.jpg",
-    "email": "John Steven"
-  },
-  {
-    "name": "Pav Borthwick",
-    "position": "UI/UX Designer",
-    "description": "Enter member description here which describes the position",
-    "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t4.jpg",
-    "email": "pavborthwick@gmail.com"
-  }
-]
+{
+  "leadership_team": [
+    {
+      "name": "Billy Mark",
+      "position": "CEO/Co-Founder",
+      "description": "Enter member description here which describes the position",
+      "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t2.jpg",
+      "email": "Billy Mark",
+      "phone": "0123456789"
+    },
+    {
+      "name": "Ben Sewell",
+      "position": "Director of Operations",
+      "description": "Enter member description here which describes the position",
+      "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t1.jpg",
+      "email": "Ben Sewell",
+      "phone": "0123456789"
+    },
+    {
+      "name": "David Tuche",
+      "position": "Office Manager",
+      "description": "Enter member description here which describes the position",
+      "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t5.jpg",
+      "email": "David Tuche",
+      "phone": "0123456789"
+    },
+    {
+      "name": "Aron Dusker",
+      "position": "Project Manager",
+      "description": "Enter member description here which describes the position",
+      "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t6.jpg",
+      "email": "Aron Dusker",
+      "phone": "0123456789"
+    },
+    {
+      "name": "John Steven",
+      "position": "Lead Marketing Manager",
+      "description": "Enter member description here which describes the position",
+      "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t3.jpg",
+      "email": "John Steven",
+      "phone": "0123456789"
+    },
+    {
+      "name": "Pav Borthwick",
+      "position": "UI/UX Designer",
+      "description": "Enter member description here which describes the position",
+      "image": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/t4.jpg",
+      "email": "Pav Borthwick",
+      "phone": "0123456789"
+    }
+  ]
+}
