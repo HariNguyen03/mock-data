@@ -6,252 +6,162 @@
   },
   "data": [
     {
-      "id": 24,
-      "author": "Nguyen Thi F",
-      "content": "Khám phá những lợi ích của thiền định đối với sức khỏe tâm lý và thể chất.",
-      "createdAt": "2025-05-05T00:00:00",
-      "description": "Hướng dẫn chi tiết về thiền định cho người mới bắt đầu.",
+      "id": 1,
+      "author": "Nguyen Van A",
+      "content": "Apple vừa ra mắt dòng iPhone mới với những cải tiến đột phá về camera và thời lượng pin. Chip xử lý mới cũng mang lại hiệu năng vượt trội so với các thế hệ trước.",
+      "createdAt": "2025-05-06T08:00:00",
+      "description": "Đánh giá chi tiết về iPhone mới nhất và những tính năng nổi bật",
       "image": "https://placehold.co/600x400",
-      "title": "Thiền định: Hành trình đến sự bình an",
-      "categoryName": "health"
-    },
-    {
-      "id": 23,
-      "author": "Tran Van G",
-      "content": "Top 10 điểm đến lý tưởng cho mùa hè 2025 tại Đông Nam Á.",
-      "createdAt": "2025-05-04T00:00:00",
-      "description": "Gợi ý các điểm du lịch hấp dẫn tại Đông Nam Á.",
-      "image": "https://placehold.co/600x400",
-      "title": "Du lịch Đông Nam Á mùa hè 2025",
-      "categoryName": "travel"
-    },
-    {
-      "id": 22,
-      "author": "Le Thi H",
-      "content": "Blockchain đang thay đổi cách chúng ta giao dịch và lưu trữ dữ liệu.",
-      "createdAt": "2025-05-03T00:00:00",
-      "description": "Tìm hiểu về công nghệ blockchain và ứng dụng trong năm 2025.",
-      "image": "https://placehold.co/600x400",
-      "title": "Blockchain: Tương lai của giao dịch số",
-      "categoryName": "tech"
-    },
-    {
-      "id": 21,
-      "author": "Pham Van I",
-      "content": "Cách xây dựng thói quen học tập hiệu quả cho học sinh trung học.",
-      "createdAt": "2025-05-02T00:00:00",
-      "description": "Bí quyết giúp học sinh học tập tốt hơn.",
-      "image": "https://placehold.co/600x400",
-      "title": "Thói quen học tập hiệu quả",
-      "categoryName": "education"
-    },
-    {
-      "id": 20,
-      "author": "Hoang Thi J",
-      "content": "Review chi tiết về dòng laptop mới nhất năm 2025.",
-      "createdAt": "2025-05-01T00:00:00",
-      "description": "Đánh giá ưu và nhược điểm của laptop mới.",
-      "image": "https://placehold.co/600x400",
-      "title": "Review laptop 2025",
-      "categoryName": "review"
-    },
-    {
-      "id": 19,
-      "author": "Nguyen Van K",
-      "content": "Tìm hiểu về phong cách sống tối giản và lợi ích của nó.",
-      "createdAt": "2025-04-30T00:00:00",
-      "description": "Hướng dẫn áp dụng lối sống tối giản vào cuộc sống hàng ngày.",
-      "image": "https://placehold.co/600x400",
-      "title": "Sống tối giản: Giải phóng cuộc sống",
-      "categoryName": "lifestyle"
-    },
-    {
-      "id": 18,
-      "author": "Tran Thi L",
-      "content": "Những món ăn tốt nhất cho sức khỏe tim mạch.",
-      "createdAt": "2025-04-29T00:00:00",
-      "description": "Danh sách các thực phẩm hỗ trợ sức khỏe tim mạch.",
-      "image": "https://placehold.co/600x400",
-      "title": "Ăn uống lành mạnh cho tim mạch",
-      "categoryName": "health"
-    },
-    {
-      "id": 17,
-      "author": "Le Van M",
-      "content": "Khám phá vẻ đẹp của Nhật Bản qua những lễ hội truyền thống.",
-      "createdAt": "2025-04-28T00:00:00",
-      "description": "Trải nghiệm văn hóa Nhật Bản qua các lễ hội.",
-      "image": "https://placehold.co/600x400",
-      "title": "Lễ hội truyền thống Nhật Bản",
-      "categoryName": "travel"
-    },
-    {
-      "id": 16,
-      "author": "Pham Thi N",
-      "content": "Máy học đang thay đổi cách chúng ta phân tích dữ liệu như thế nào?",
-      "createdAt": "2025-04-27T00:00:00",
-      "description": "Ứng dụng của máy học trong phân tích dữ liệu.",
-      "image": "https://placehold.co/600x400",
-      "title": "Máy học và phân tích dữ liệu",
-      "categoryName": "tech"
-    },
-    {
-      "id": 15,
-      "author": "Hoang Van O",
-      "content": "Cách cải thiện kỹ năng viết code thông qua các dự án thực tế.",
-      "createdAt": "2025-04-26T00:00:00",
-      "description": "Hướng dẫn học lập trình qua dự án thực tế.",
-      "image": "https://placehold.co/600x400",
-      "title": "Học lập trình qua dự án",
-      "categoryName": "education"
-    },
-    {
-      "id": 14,
-      "author": "Nguyen Thi P",
-      "content": "Những bài tập yoga tốt nhất cho người làm việc văn phòng.",
-      "createdAt": "2025-04-25T00:00:00",
-      "description": "Hướng dẫn yoga cho người bận rộn.",
-      "image": "https://placehold.co/600x400",
-      "title": "Yoga cho dân văn phòng",
-      "categoryName": "health"
-    },
-    {
-      "id": 13,
-      "author": "Tran Van Q",
-      "content": "Hành trình khám phá Nam Cực: Những điều bạn cần biết.",
-      "createdAt": "2025-04-24T00:00:00",
-      "description": "Chuẩn bị cho chuyến du lịch Nam Cực.",
-      "image": "https://placehold.co/600x400",
-      "title": "Du lịch Nam Cực 2025",
-      "categoryName": "travel"
-    },
-    {
-      "id": 12,
-      "author": "Le Thi R",
-      "content": "Tầm quan trọng của an ninh mạng trong thời đại số.",
-      "createdAt": "2025-04-23T00:00:00",
-      "description": "Cách bảo vệ dữ liệu cá nhân trong thời đại số.",
-      "image": "https://placehold.co/600x400",
-      "title": "An ninh mạng thời đại số",
-      "categoryName": "tech"
-    },
-    {
-      "id": 11,
-      "author": "Pham Van S",
-      "content": "Làm thế nào để cải thiện kỹ năng giao tiếp trong môi trường học tập?",
-      "createdAt": "2025-04-22T00:00:00",
-      "description": "Mẹo cải thiện giao tiếp cho học sinh, sinh viên.",
-      "image": "https://placehold.co/600x400",
-      "title": "Kỹ năng giao tiếp trong học tập",
-      "categoryName": "education"
-    },
-    {
-      "id": 10,
-      "author": "Hoang Thi T",
-      "content": "Top 5 thực phẩm tăng cường hệ miễn dịch trong mùa đông.",
-      "createdAt": "2025-04-21T00:00:00",
-      "description": "Danh sách thực phẩm giúp tăng cường sức khỏe.",
-      "image": "https://placehold.co/600x400",
-      "title": "Thực phẩm tăng cường miễn dịch",
-      "categoryName": "health"
-    },
-    {
-      "id": 9,
-      "author": "Nguyen Van U",
-      "content": "Hành trình khám phá ẩm thực đường phố Việt Nam.",
-      "createdAt": "2025-04-20T00:00:00",
-      "description": "Trải nghiệm ẩm thực đường phố độc đáo.",
-      "image": "https://placehold.co/600x400",
-      "title": "Ẩm thực đường phố Việt Nam",
-      "categoryName": "travel"
-    },
-    {
-      "id": 8,
-      "author": "Tran Thi V",
-      "content": "Tìm hiểu về điện toán đám mây và ứng dụng trong doanh nghiệp.",
-      "createdAt": "2025-04-19T00:00:00",
-      "description": "Điện toán đám mây đang thay đổi doanh nghiệp như thế nào?",
-      "image": "https://placehold.co/600x400",
-      "title": "Điện toán đám mây 2025",
-      "categoryName": "tech"
-    },
-    {
-      "id": 7,
-      "author": "Le Van W",
-      "content": "Cách xây dựng chế độ ăn uống lành mạnh trong 30 ngày.",
-      "createdAt": "2025-04-18T00:00:00",
-      "description": "Hướng dẫn chế độ ăn uống lành mạnh cho người mới bắt đầu.",
-      "image": "https://placehold.co/600x400",
-      "title": "Chế độ ăn uống lành mạnh",
-      "categoryName": "health"
-    },
-    {
-      "id": 6,
-      "author": "Pham Thi X",
-      "content": "Công nghệ 5G và tác động đến cuộc sống hàng ngày.",
-      "createdAt": "2025-04-17T00:00:00",
-      "description": "Tìm hiểu về 5G và ứng dụng thực tiễn.",
-      "image": "https://placehold.co/600x400",
-      "title": "5G: Tương lai của kết nối",
-      "categoryName": "tech"
-    },
-    {
-      "id": 5,
-      "author": "Hoang E",
-      "content": "Cách chăm sóc sức khỏe tốt hơn mỗi ngày.",
-      "createdAt": "2024-04-03T00:00:00",
-      "description": "Mô tả bài viết 5",
-      "image": "https://placehold.co/600x400",
-      "title": "Bí quyết chăm sóc sức khỏe",
-      "categoryName": "health"
-    },
-    {
-      "id": 4,
-      "author": "Pham D",
-      "content": "Trải nghiệm thú vị khi du lịch Châu Âu!",
-      "createdAt": "2024-04-02T00:00:00",
-      "description": "Mô tả bài viết 4",
-      "image": "https://placehold.co/600x400",
-      "title": "Kinh nghiệm du lịch Châu Âu",
-      "categoryName": "travel"
-    },
-    {
-      "id": 3,
-      "author": "Le Van C",
-      "content": "Nếu bạn mới bắt đầu học lập trình, hãy tìm hiểu về các ngôn ngữ như Python và JavaScript. Python phù hợp cho khoa học dữ liệu và AI, trong khi JavaScript lại phổ biến trong phát triển web. Quan trọng nhất là thực hành thường xuyên và tham gia các dự án thực tế.",
-      "createdAt": "2024-04-01T00:00:00",
-      "description": "Gợi ý về cách học lập trình hiệu quả cho người mới bắt đầu.",
-      "image": "https://placehold.co/600x400",
-      "title": "Học lập trình như thế nào?",
-      "categoryName": "education"
+      "title": "Đánh giá iPhone 2025: Đột phá công nghệ",
+      "categoryName": "technology"
     },
     {
       "id": 2,
       "author": "Tran Thi B",
-      "content": "Trí tuệ nhân tạo (AI) đang ngày càng thay đổi cách con người làm việc và tương tác với công nghệ. Với sự phát triển của các mô hình ngôn ngữ lớn như GPT-4, AI không chỉ hỗ trợ sáng tạo nội dung mà còn giúp tối ưu hóa quy trình làm việc trong nhiều lĩnh vực khác nhau.",
-      "createdAt": "2024-03-31T00:00:00",
-      "description": "AI đang tạo ra bước đột phá trong nhiều ngành công nghiệp, từ chăm sóc sức khỏe đến tài chính.",
+      "content": "Thiền định 15 phút mỗi ngày có thể giúp giảm căng thẳng, cải thiện sự tập trung và nâng cao chất lượng giấc ngủ. Bài viết hướng dẫn cách thực hành thiền đơn giản cho người mới bắt đầu.",
+      "createdAt": "2025-05-06T07:30:00",
+      "description": "Hướng dẫn thực hành thiền định cho người bận rộn",
       "image": "https://placehold.co/600x400",
-      "title": "AI và những thay đổi lớn trong năm 2024",
-      "categoryName": "tech"
+      "title": "15 phút thiền mỗi ngày - thay đổi cuộc sống",
+      "categoryName": "health"
     },
     {
-      "id": 1,
-      "author": "Nguyen Van A",
-      "content": "Bài viết rất hay!",
-      "createdAt": "2024-03-30T00:00:00",
-      "description": "Mô tả bài viết 1",
+      "id": 3,
+      "author": "Le Van C",
+      "content": "Hội An không chỉ nổi tiếng với phố cổ mà còn có những bãi biển tuyệt đẹp và ẩm thực đa dạng. Bài viết chia sẻ lịch trình 3 ngày khám phá Hội An một cách trọn vẹn.",
+      "createdAt": "2025-05-06T07:00:00",
+      "description": "Khám phá Hội An trong 3 ngày với chi phí tiết kiệm",
       "image": "https://placehold.co/600x400",
-      "title": "Tiêu đề bài viết 1",
-      "categoryName": "review"
+      "title": "Hội An - Trải nghiệm 3 ngày đáng nhớ",
+      "categoryName": "travel"
+    },
+    {
+      "id": 4,
+      "author": "Pham Thi D",
+      "content": "Phương pháp Pomodoro giúp tăng năng suất học tập bằng cách chia thời gian thành các khung 25 phút tập trung cao độ, xen kẽ với các khoảng nghỉ ngắn. Áp dụng đúng cách sẽ giúp bạn học hiệu quả hơn.",
+      "createdAt": "2025-05-06T06:30:00",
+      "description": "Tăng hiệu quả học tập với phương pháp Pomodoro",
+      "image": "https://placehold.co/600x400",
+      "title": "Phương pháp Pomodoro - Bí quyết học tập hiệu quả",
+      "categoryName": "education"
+    },
+    {
+      "id": 5,
+      "author": "Hoang Van E",
+      "content": "Đầu tư sớm và đều đặn là chìa khóa để đạt được tự do tài chính. Bài viết phân tích các chiến lược đầu tư phù hợp với từng độ tuổi và mức thu nhập.",
+      "createdAt": "2025-05-06T06:00:00",
+      "description": "Chiến lược đầu tư thông minh cho người trẻ",
+      "image": "https://placehold.co/600x400",
+      "title": "Bắt đầu đầu tư từ tuổi 20 - Con đường đến tự do tài chính",
+      "categoryName": "finance"
+    },
+    {
+      "id": 6,
+      "author": "Nguyen Thi F",
+      "content": "Phở là món ăn đại diện cho ẩm thực Việt Nam với hương vị đặc trưng. Bài viết chia sẻ công thức nấu phở bò truyền thống chuẩn vị Hà Nội cho những người yêu thích ẩm thực.",
+      "createdAt": "2025-05-06T05:30:00",
+      "description": "Công thức nấu phở bò truyền thống tại nhà",
+      "image": "https://placehold.co/600x400",
+      "title": "Bí quyết nấu phở bò chuẩn vị Hà Nội",
+      "categoryName": "food"
+    },
+    {
+      "id": 7,
+      "author": "Tran Van G",
+      "content": "Xu hướng 'minimalism' đang ngày càng phổ biến giúp giảm stress và tạo không gian sống thoáng đãng. Bài viết hướng dẫn cách áp dụng lối sống tối giản vào cuộc sống hàng ngày.",
+      "createdAt": "2025-05-06T05:00:00",
+      "description": "Áp dụng lối sống tối giản để giảm stress",
+      "image": "https://placehold.co/600x400",
+      "title": "Sống tối giản - Hạnh phúc từ những điều đơn giản",
+      "categoryName": "lifestyle"
+    },
+    {
+      "id": 8,
+      "author": "Le Thi H",
+      "content": "Các nhà khoa học đã phát hiện ra một loài động vật biển mới có khả năng tái tạo tế bào đặc biệt, mở ra triển vọng cho y học tái tạo và điều trị các bệnh thoái hóa.",
+      "createdAt": "2025-05-06T04:30:00",
+      "description": "Phát hiện mới về khả năng tái tạo tế bào ở sinh vật biển",
+      "image": "https://placehold.co/600x400",
+      "title": "Sinh vật biển mới - Chìa khóa cho y học tái tạo",
+      "categoryName": "science"
+    },
+    {
+      "id": 10,
+      "author": "Hoang Thi J",
+      "content": "AI đang thay đổi cách các doanh nghiệp phát triển sản phẩm và tương tác với khách hàng. Bài viết phân tích các xu hướng AI đang định hình tương lai công nghệ.",
+      "createdAt": "2025-05-05T09:00:00",
+      "description": "Xu hướng AI đang thay đổi ngành công nghệ",
+      "image": "https://placehold.co/600x400",
+      "title": "AI trong năm 2025 - Những bước tiến đột phá",
+      "categoryName": "technology"
+    },
+    {
+      "id": 11,
+      "author": "Nguyen Van K",
+      "content": "Các công nghệ mới như blockchain đang mang lại cách tiếp cận mới cho bảo mật dữ liệu. Bài viết phân tích các giải pháp bảo mật hiện đại dành cho doanh nghiệp.",
+      "createdAt": "2025-05-04T10:00:00",
+      "description": "Giải pháp bảo mật dữ liệu hiện đại cho doanh nghiệp",
+      "image": "https://placehold.co/600x400",
+      "title": "Blockchain và tương lai của bảo mật dữ liệu",
+      "categoryName": "technology"
+    },
+    {
+      "id": 12,
+      "author": "Tran Thi L",
+      "content": "5G đang tạo ra cuộc cách mạng về kết nối và truyền dữ liệu. Bài viết khám phá cách 5G đang thay đổi cuộc sống và công việc của chúng ta.",
+      "createdAt": "2025-05-03T11:00:00",
+      "description": "Tác động của 5G đến cuộc sống hiện đại",
+      "image": "https://placehold.co/600x400",
+      "title": "5G - Kỷ nguyên mới của kết nối",
+      "categoryName": "technology"
+    },
+    {
+      "id": 13,
+      "author": "Le Van M",
+      "content": "Điện toán đám mây đang mang lại những lợi ích to lớn cho doanh nghiệp về tính linh hoạt và tiết kiệm chi phí. Bài viết phân tích các giải pháp điện toán đám mây phù hợp cho từng loại doanh nghiệp.",
+      "createdAt": "2025-05-02T12:00:00",
+      "description": "Lựa chọn giải pháp điện toán đám mây phù hợp",
+      "image": "https://placehold.co/600x400",
+      "title": "Điện toán đám mây - Giải pháp cho doanh nghiệp hiện đại",
+      "categoryName": "technology"
+    },
+    {
+      "id": 14,
+      "author": "Pham Thi N",
+      "content": "Internet of Things (IoT) đang kết nối mọi thiết bị trong cuộc sống của chúng ta. Bài viết khám phá các ứng dụng thông minh của IoT trong đời sống hàng ngày.",
+      "createdAt": "2025-05-01T13:00:00",
+      "description": "Ứng dụng của IoT trong đời sống thường ngày",
+      "image": "https://placehold.co/600x400",
+      "title": "IoT - Kết nối thông minh cho ngôi nhà hiện đại",
+      "categoryName": "technology"
+    },
+    {
+      "id": 15,
+      "author": "Hoang Van O",
+      "content": "Thực tế ảo đang mang lại trải nghiệm hoàn toàn mới trong giải trí và giáo dục. Bài viết đánh giá các thiết bị VR mới nhất trên thị trường.",
+      "createdAt": "2025-04-30T14:00:00",
+      "description": "Đánh giá các thiết bị VR hiện đại nhất",
+      "image": "https://placehold.co/600x400",
+      "title": "Thực tế ảo - Tương lai của giải trí",
+      "categoryName": "technology"
+    },
+    {
+      "id": 16,
+      "author": "Nguyen Thi P",
+      "content": "Máy học đang cách mạng hóa cách doanh nghiệp phân tích và sử dụng dữ liệu. Bài viết giới thiệu các ứng dụng thực tế của máy học trong kinh doanh.",
+      "createdAt": "2025-04-29T15:00:00",
+      "description": "Ứng dụng của máy học trong kinh doanh",
+      "image": "https://placehold.co/600x400",
+      "title": "Máy học - Chìa khóa cho phân tích dữ liệu hiện đại",
+      "categoryName": "technology"
     }
   ],
   "page": {
-    "total_pages": 3,
-    "has_next": true,
+    "total_pages": 1,
+    "has_next": false,
     "has_previous": false,
     "current_page": 1,
-    "total_elements": 24
+    "total_elements": 15
   },
   "extraData": null
 }
