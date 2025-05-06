@@ -42,30 +42,6 @@ server.get('/', (req, res) => {
         const type = Array.isArray(db[key]) ? `${db[key].length}x` : 'object';
         resources += `<div><a href="/api/${key}">/api/${key}</a> <span>${type}</span></div>\n`;
     }
-
-    const html = `
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>JSON Server</title>
-        <style>
-            body { font-family: sans-serif; padding: 30px; }
-            h1 { margin-bottom: 20px; }
-            div { margin-bottom: 10px; }
-            a { color: #0077cc; text-decoration: none; }
-            span { color: #666; margin-left: 10px; }
-        </style>
-    </head>
-    <body>
-        <h1>JSON Server with API Prefix</h1>
-        <p>Congrats! You're successfully running JSON Server with /api prefix</p>
-        <h2>Available Resources:</h2>
-        ${resources}
-    </body>
-    </html>
-    `;
-
-    res.send(html);
 });
 
 // In log để kiểm tra server khởi động
