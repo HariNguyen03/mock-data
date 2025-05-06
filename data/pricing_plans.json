@@ -1,51 +1,56 @@
 [
   {
-    "plan": "Basic",
-    "price": "$19/month",
-    "description": "The Basic plan is designed for small businesses or individuals looking to get started with essential features.",
+    "id": 1,
+    "code": "PRP01",
+    "name": "Embedded Pricing",
+    "description": "See our content marketing pricing below",
+    "price": 19,
+    "currency": "$",
     "features": [
-      "Access to core features",
-      "Basic customer support",
-      "1 User license",
-      "Cloud-based hosting",
-      "Mobile responsiveness",
-      "Security updates"
+      "Recurring subscriptions",
+      "Billing portal table (in-app)",
+      "One-time purchases",
+      "No-code style editor",
+      "Custom CSS and markup",
+      "Remote support"
     ],
-    "trial": "7-day free trial",
-    "discount": "No discounts"
+    "duration": "month",
+    "status": "active"
   },
   {
-    "plan": "Standard",
-    "price": "$49/month",
-    "description": "The Standard plan is perfect for growing teams who need more collaboration tools and support.",
+    "id": 2,
+    "code": "PRP02",
+    "name": "Experiments",
+    "description": "See our content marketing pricing below",
+    "price": 49,
+    "currency": "$",
     "features": [
-      "Access to all core features",
-      "Priority customer support",
-      "Up to 5 user licenses",
-      "Cloud-based hosting",
-      "Mobile responsiveness",
-      "Security updates",
-      "Team collaboration tools"
+      "AB-test monetization",
+      "Clear data-backed outcomes",
+      "Packaging experiments",
+      "Custom CSS and markup",
+      "Pricing experiments",
+      "Remote support"
     ],
-    "trial": "14-day free trial",
-    "discount": "20% off for annual subscriptions"
+    "duration": "month",
+    "status": "string"
   },
   {
-    "plan": "Premium",
-    "price": "$99/month",
-    "description": "The Premium plan is designed for businesses that require advanced features, unlimited users, and dedicated support.",
+    "id": 3,
+    "code": "PRP03",
+    "name": "Custom",
+    "description": "See our content marketing pricing below",
+    "price": 79,
+    "currency": "$",
     "features": [
-      "Access to all features including advanced analytics",
-      "24/7 dedicated customer support",
-      "Unlimited user licenses",
-      "Advanced reporting & analytics",
-      "Priority response times",
-      "Cloud-based hosting",
-      "Mobile responsiveness",
-      "Security updates",
-      "Custom branding options"
+      "24/7 system monitoring",
+      "Support on technical execution",
+      "Volume discounts",
+      "AB-test monetization",
+      "Custom CSS and markup",
+      "Remote support"
     ],
-    "trial": "30-day free trial",
-    "discount": "30% off for annual subscriptions"
+    "duration": "month",
+    "status": "string"
   }
 ]
