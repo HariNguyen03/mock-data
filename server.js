@@ -21,6 +21,10 @@ fs.readdirSync(dataDir).forEach(file => {
 // Tạo router từ dữ liệu hợp nhất
 const router = jsonServer.router(db);
 
+// Tạo router mới cho các endpoint không có tiền tố
+const routerNoPrefix = jsonServer.router(db);
+
+// Sử dụng middlewares
 server.use(middlewares);
 
 // Thêm CORS
@@ -31,8 +35,38 @@ server.use((req, res, next) => {
     next();
 });
 
-// Thêm tiền tố /api cho tất cả các route
-server.use('/api', router);
+// Trang chủ tùy chỉnh để hiển thị các đường dẫn với tiền tố /api
+server.get('/', (req, res) => {
+    let resources = '';
+    for (const key in db) {
+        const type = Array.isArray(db[key]) ? `${db[key].length}x` : 'object';
+        resources += `<div><a href="/api/${key}">/api/${key}</a> <span>${type}</span></div>\n`;
+    }
+
+    const html = `
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>JSON Server</title>
+        <style>
+            body { font-family: sans-serif; padding: 30px; }
+            h1 { margin-bottom: 20px; }
+            div { margin-bottom: 10px; }
+            a { color: #0077cc; text-decoration: none; }
+            span { color: #666; margin-left: 10px; }
+        </style>
+    </head>
+    <body>
+        <h1>JSON Server with API Prefix</h1>
+        <p>Congrats! You're successfully running JSON Server with /api prefix</p>
+        <h2>Available Resources:</h2>
+        ${resources}
+    </body>
+    </html>
+    `;
+
+    res.send(html);
+});
 
 // In log để kiểm tra server khởi động
 console.log('JSON Server is running');
@@ -40,7 +74,6 @@ console.log('JSON Server is running');
 // Khởi động server trên cổng 3000
 server.listen(3000, () => {
     console.log('Server is running on http://localhost:3000');
-    console.log('API endpoints available at http://localhost:3000/api/<têndata>');
 });
 
 module.exports = server;
