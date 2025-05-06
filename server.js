@@ -31,7 +31,8 @@ server.use((req, res, next) => {
     next();
 });
 
-server.use(router);
+// Thêm tiền tố /api cho tất cả các route
+server.use('/api', router);
 
 // In log để kiểm tra server khởi động
 console.log('JSON Server is running');
@@ -39,6 +40,7 @@ console.log('JSON Server is running');
 // Khởi động server trên cổng 3000
 server.listen(3000, () => {
     console.log('Server is running on http://localhost:3000');
+    console.log('API endpoints available at http://localhost:3000/api/<têndata>');
 });
 
 module.exports = server;
