@@ -31,33 +31,7 @@ server.use((req, res, next) => {
     next();
 });
 
-// Middleware để điều hướng các request không có tiền tố /api
-server.use((req, res, next) => {
-    if (!req.url.startsWith('/api') && req.url !== '/') {
-        // Chuyển hướng từ /<resource> sang /api/<resource>
-        req.url = `/api${req.url}`;
-    }
-    next();
-});
-
-// Thêm tiền tố /api cho tất cả các route
-server.use('/api', router);
-
-// Thay đổi trang mặc định để hiển thị các đường dẫn với tiền tố /api
-const originalRender = jsonServer.defaults.homepage;
-if (originalRender) {
-    const customRender = (req, res) => {
-        const originalHtml = fs.readFileSync(path.join(__dirname, 'node_modules', 'json-server', 'dist', 'public', 'index.html'), 'utf8');
-
-        // Sửa đổi HTML để thêm tiền tố /api vào các đường dẫn
-        const modifiedHtml = originalHtml.replace(/(href=")\/([^"]+)/g, '$1/api/$2');
-
-        res.send(modifiedHtml);
-    };
-
-
-    server.get('/', customRender);
-}
+server.use(router);
 
 // In log để kiểm tra server khởi động
 console.log('JSON Server is running');
@@ -65,7 +39,6 @@ console.log('JSON Server is running');
 // Khởi động server trên cổng 3000
 server.listen(3000, () => {
     console.log('Server is running on http://localhost:3000');
-    console.log('API endpoints available at http://localhost:3000/api/<têndata>');
 });
 
 module.exports = server;
