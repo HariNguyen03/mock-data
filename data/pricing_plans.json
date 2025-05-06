@@ -1,0 +1,51 @@
+[
+  {
+    "plan": "Basic",
+    "price": "$19/month",
+    "description": "The Basic plan is designed for small businesses or individuals looking to get started with essential features.",
+    "features": [
+      "Access to core features",
+      "Basic customer support",
+      "1 User license",
+      "Cloud-based hosting",
+      "Mobile responsiveness",
+      "Security updates"
+    ],
+    "trial": "7-day free trial",
+    "discount": "No discounts"
+  },
+  {
+    "plan": "Standard",
+    "price": "$49/month",
+    "description": "The Standard plan is perfect for growing teams who need more collaboration tools and support.",
+    "features": [
+      "Access to all core features",
+      "Priority customer support",
+      "Up to 5 user licenses",
+      "Cloud-based hosting",
+      "Mobile responsiveness",
+      "Security updates",
+      "Team collaboration tools"
+    ],
+    "trial": "14-day free trial",
+    "discount": "20% off for annual subscriptions"
+  },
+  {
+    "plan": "Premium",
+    "price": "$99/month",
+    "description": "The Premium plan is designed for businesses that require advanced features, unlimited users, and dedicated support.",
+    "features": [
+      "Access to all features including advanced analytics",
+      "24/7 dedicated customer support",
+      "Unlimited user licenses",
+      "Advanced reporting & analytics",
+      "Priority response times",
+      "Cloud-based hosting",
+      "Mobile responsiveness",
+      "Security updates",
+      "Custom branding options"
+    ],
+    "trial": "30-day free trial",
+    "discount": "30% off for annual subscriptions"
+  }
+]
