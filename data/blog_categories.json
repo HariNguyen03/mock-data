@@ -1,44 +1,73 @@
-[
-  {
-    "id": 1,
-    "code": "blc1",
-    "name": "review",
-    "slug": "reactjs",
-    "description": "i find carr"
+{
+  "status": {
+    "code": "200",
+    "message": "Thành công",
+    "label": "Success"
   },
-  {
-    "id": 2,
-    "code": "blc2",
-    "name": "tech",
-    "slug": "javascrip",
-    "description": "how are you today"
+  "data": [
+    {
+      "id": 1,
+      "code": "BLC001",
+      "name": "technology",
+      "slug": "technology",
+      "description": "Tin tức và đánh giá về công nghệ mới nhất"
+    },
+    {
+      "id": 2,
+      "code": "BLC002",
+      "name": "health",
+      "slug": "health-wellness",
+      "description": "Thông tin về sức khỏe và lối sống lành mạnh"
+    },
+    {
+      "id": 3,
+      "code": "BLC003",
+      "name": "travel",
+      "slug": "travel",
+      "description": "Chia sẻ kinh nghiệm du lịch và khám phá"
+    },
+    {
+      "id": 4,
+      "code": "BLC004",
+      "name": "education",
+      "slug": "education",
+      "description": "Các bài viết về giáo dục và phương pháp học tập"
+    },
+    {
+      "id": 5,
+      "code": "BLC005",
+      "name": "finance",
+      "slug": "finance",
+      "description": "Kiến thức tài chính và đầu tư"
+    },
+    {
+      "id": 6,
+      "code": "BLC006",
+      "name": "food",
+      "slug": "food-cooking",
+      "description": "Công thức nấu ăn và đánh giá ẩm thực"
+    },
+    {
+      "id": 7,
+      "code": "BLC007",
+      "name": "lifestyle",
+      "slug": "lifestyle",
+      "description": "Phong cách sống và xu hướng mới"
+    },
+    {
+      "id": 8,
+      "code": "BLC008",
+      "name": "science",
+      "slug": "science",
+      "description": "Những khám phá khoa học mới nhất"
+    }
+  ],
+  "page": {
+    "total_pages": 1,
+    "has_next": false,
+    "has_previous": false,
+    "current_page": 1,
+    "total_elements": 8
   },
-  {
-    "id": 3,
-    "code": "blc3",
-    "name": "education",
-    "slug": "Spring boot",
-    "description": "helo"
-  },
-  {
-    "id": 4,
-    "code": "blc4",
-    "name": "travel",
-    "slug": "Java",
-    "description": "hai"
-  },
-  {
-    "id": 5,
-    "code": "blc5",
-    "name": "health",
-    "slug": "Cong nghe",
-    "description": "xin chào"
-  },
-  {
-    "id": 6,
-    "code": "TECH001",
-    "name": "techbyte",
-    "slug": "tech-news",
-    "description": "Latest updates about technology"
-  }
-]
+  "extraData": null
+}

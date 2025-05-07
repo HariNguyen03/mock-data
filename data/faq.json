@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Do you provide a website hosting service?",
+    "answer": "Yes, we offer packages to host websites through our trusted third-party hosting providers. Most of our clients opt to do this so they don’t have to worry in the unlikely event that the website goes down."
+  },
+  {
+    "question": "How much does it cost to build a website?",
+    "answer": "Our WordPress website design packages start at £700 + VAT, providing an affordable entry point for those beginning their online journey."
+  },
+  {
+    "question": "How long does it take to build a website?",
+    "answer": "We find that the majority of our projects take between 4-6 weeks from start to finish."
+  },
+  {
+    "question": "Will my website be mobile friendly?",
+    "answer": "100%. Every website we build is always developed to work across mobile devices of all sizes and browsers as standard."
+  },
+  {
+    "question": "Can you maintain our website?",
+    "answer": "Yes. Either in conjunction with you or completely on your behalf. Many of our clients have monthly or annual maintenance contracts where we carry out essential maintenance on their behalf as well as regular updates to the content and features on the website."
+  },
+  {
+    "question": "How much does your software consulting service cost?",
+    "answer": "Our pricing depends on the specific needs of your project. We offer flexible engagement models, including hourly rates and fixed-cost projects."
+  },
+  {
+    "question": "How can your services benefit my business?",
+    "answer": "Depending on your current business stage, our services help realize startup ideas, streamline business operations, enhance productivity, and reduce costs."
+  },
+  {
+    "question": "What is your approach to cybersecurity?",
+    "answer": "We take a proactive approach to cybersecurity, incorporating comprehensive security measures into all our projects. Our goal is to protect your data and systems from potential threats and breaches."
+  },
+  {
+    "question": "How do you tailor solutions to fit my business needs?",
+    "answer": "We begin with a thorough assessment of your business requirements and challenges. Our consultants work closely with you to understand your goals and objectives."
+  },
+  {
+    "question": "What technologies will you use to build my software?",
+    "answer": "We leverage the latest technologies best suited for your project’s specific requirements. Our team stays ahead of the curve to ensure we deliver high-performing, scalable, and secure software solutions."
+  }
+]
