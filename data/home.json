@@ -101,6 +101,22 @@
       "url": "/blog",
       "description": "Bài viết",
       "children": []
+    },
+    {
+      "id": 13,
+      "code": "404",
+      "name": "404",
+      "url": "/404",
+      "description": "page404",
+      "children": []
+    },
+    {
+      "id": 14,
+      "code": "500",
+      "name": "500",
+      "url": "/500",
+      "description": "page500",
+      "children": []
     }
   ],
   "extraData": null
