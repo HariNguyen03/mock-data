@@ -1,100 +1,107 @@
-[
-  {
-    "id": 1,
-    "code": "HOME",
-    "name": "Home",
-    "url": "/home",
-    "description": "Trang chủ",
-    "children": []
+{
+  "status": {
+    "code": "200",
+    "message": "Thành công",
+    "label": "Success"
   },
-  {
-    "id": 2,
-    "code": "ABOUT",
-    "name": "About",
-    "url": "/about",
-    "description": "Về chúng tôi",
-    "children": [
-      {
-        "id": 7,
-        "code": "COMPANY",
-        "name": "Company",
-        "url": "/about/company",
-        "description": "Thông tin công ty",
-        "children": null
-      },
-      {
-        "id": 8,
-        "code": "LEADERSHIP",
-        "name": "Leadership Team",
-        "url": "/about/leadership",
-        "description": "Đội ngũ lãnh đạo",
-        "children": null
-      },
-      {
-        "id": 9,
-        "code": "FAQ",
-        "name": "FAQ",
-        "url": "/about/faq",
-        "description": "Câu hỏi thường gặp",
-        "children": null
-      },
-      {
-        "id": 10,
-        "code": "CONTACT",
-        "name": "Contact",
-        "url": "/about/contact",
-        "description": "Liên hệ",
-        "children": null
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "code": "SERVICES",
-    "name": "Services",
-    "url": "/services",
-    "description": "Dịch vụ",
-    "children": []
-  },
-  {
-    "id": 4,
-    "code": "OUR_WORKS",
-    "name": "Our Works",
-    "url": "/our-works",
-    "description": "Các dự án",
-    "children": [
-      {
-      "id": 11,
-      "code": "CASE1",
-      "name": "Case Studies 1",
-      "url": "/our-works/case-1",
-      "description": "Dự án tiêu biểu 1",
-      "children": null
-      },
-      {
-        "id": 12,
-        "code": "CASE2",
-        "name": "Case Studies 2",
-        "url": "/our-works/case-2",
-        "description": "Dự án tiêu biểu 2",
-        "children": null
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "code": "BLOG",
-    "name": "Blog",
-    "url": "/blog",
-    "description": "Bài viết",
-    "children": []
-  },  
-  {
-    "id": 6,
-    "code": "RECRUITMENT",
-    "name": "Recruitment",
-    "url": "/recruitment",
-    "description": "Tuyển dụng",
-    "children": []
-  }
-]
+  "data": [
+    {
+      "id": 1,
+      "code": "HOME",
+      "name": "home",
+      "url": "/",
+      "description": "Trang chủ",
+      "children": []
+    },
+    {
+      "id": 2,
+      "code": "ABOUT",
+      "name": "about",
+      "url": "/about",
+      "description": "Về chúng tôi",
+      "children": [
+        {
+          "id": 6,
+          "code": "COMPANY",
+          "name": "company",
+          "url": "/about/company",
+          "description": "Thông tin công ty",
+          "children": null
+        },
+        {
+          "id": 7,
+          "code": "LEADERSHIP",
+          "name": "leadership team",
+          "url": "/about/leadership_team",
+          "description": "Đội ngũ lãnh đạo",
+          "children": null
+        },
+        {
+          "id": 8,
+          "code": "EXPERIENCE",
+          "name": "experience",
+          "url": "/about/experience",
+          "description": "Kinh nghiệm",
+          "children": null
+        },
+        {
+          "id": 9,
+          "code": "PRICINGANDPLANS",
+          "name": "pricing and plans",
+          "url": "/about/pricing_and_plans",
+          "description": "Liên hệ",
+          "children": null
+        },
+        {
+          "id": 10,
+          "code": "FAQ",
+          "name": "faq",
+          "url": "/about/faq",
+          "description": "Câu hỏi",
+          "children": null
+        },
+        {
+          "id": 11,
+          "code": "CONTACT",
+          "name": "contact",
+          "url": "/about/contact",
+          "description": "Liên hệ đến công ty",
+          "children": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "code": "SERVICES",
+      "name": "services",
+      "url": "/services",
+      "description": "Dịch vụ",
+      "children": []
+    },
+    {
+      "id": 4,
+      "code": "OUR_WORKS",
+      "name": "our works",
+      "url": "/our-works",
+      "description": "Các dự án",
+      "children": []
+    },
+    {
+      "id": 12,
+      "code": "RECRUITMENT",
+      "name": "recruitment",
+      "url": "/recruitment",
+      "description": "Tuyển dụng công ty",
+      "children": []
+    },
+    {
+      "id": 5,
+      "code": "BLOG",
+      "name": "blog",
+      "url": "/blog",
+      "description": "Bài viết",
+      "children": []
+    }
+  ],
+  "extraData": null
+}
