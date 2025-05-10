@@ -55,8 +55,8 @@
         {
           "id": 10,
           "code": "FAQ",
-          "name": "faq",
-          "url": "/about/faq",
+          "name": "faqs",
+          "url": "/about/faqs",
           "description": "Câu hỏi",
           "children": null
         },
@@ -82,7 +82,7 @@
       "id": 4,
       "code": "OUR_WORKS",
       "name": "our works",
-      "url": "/our-works",
+      "url": "/our_works",
       "description": "Các dự án",
       "children": []
     },
