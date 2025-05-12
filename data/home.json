@@ -32,6 +32,7 @@
           "id": 7,
           "code": "LEADERSHIP",
           "name": "leadership team",
+
           "url": "/about/leadership_team",
           "description": "Đội ngũ lãnh đạo",
           "children": null
@@ -84,7 +85,24 @@
       "name": "our works",
       "url": "/our_works",
       "description": "Các dự án",
-      "children": []
+      "children": [
+        {
+          "id": 17,
+          "code": "OUR_WORKS_CATEGORY",
+          "name": ":categorySlug",
+          "url": "/our_works/category/:categorySlug",
+          "description": "Chi tiết bài tuyển dụng",
+          "children": null
+        },
+        {
+          "id": 16,
+          "code": "OUR_WORKS_DETAIL",
+          "name": ":nameSlug",
+          "url": "/our_works/:nameSlug",
+          "description": "Chi tiết bài tuyển dụng",
+          "children": null
+        }
+      ]
     },
     {
       "id": 12,
@@ -92,7 +110,16 @@
       "name": "recruitment",
       "url": "/recruitment",
       "description": "Tuyển dụng công ty",
-      "children": []
+      "children": [
+        {
+          "id": 15,
+          "code": "RECRUITMENT_DETAIL",
+          "name": ":nameSlug",
+          "url": "/recruitment/:nameSlug",
+          "description": "Chi tiết bài tuyển dụng",
+          "children": null
+        }
+      ]
     },
     {
       "id": 5,
@@ -100,7 +127,24 @@
       "name": "blog",
       "url": "/blog",
       "description": "Bài viết",
-      "children": []
+      "children": [
+        {
+          "id": 13,
+          "code": "BLOG_DETAIL",
+          "name": ":nameSlug",
+          "url": "/blog/:nameSlug",
+          "description": "Chi tiết bài viết",
+          "children": null
+        },
+        {
+          "id": 14,
+          "code": "BLOG_CATEGORY",
+          "name": ":categorySlug",
+          "url": "/blog/category/:categorySlug",
+          "description": "Danh mục bài viết",
+          "children": null
+        }
+      ]
     }
   ],
   "extraData": null
