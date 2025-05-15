@@ -46,20 +46,6 @@
       "name": "food",
       "slug": "food-cooking",
       "description": "Công thức nấu ăn và đánh giá ẩm thực"
-    },
-    {
-      "id": 7,
-      "code": "BLC007",
-      "name": "lifestyle",
-      "slug": "lifestyle",
-      "description": "Phong cách sống và xu hướng mới"
-    },
-    {
-      "id": 8,
-      "code": "BLC008",
-      "name": "science",
-      "slug": "science",
-      "description": "Những khám phá khoa học mới nhất"
     }
   ],
   "page": {
@@ -67,7 +53,7 @@
     "has_next": false,
     "has_previous": false,
     "current_page": 1,
-    "total_elements": 8
+    "total_elements": 6
   },
   "extraData": null
 }

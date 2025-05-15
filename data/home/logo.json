@@ -1,0 +1,28 @@
+{
+  "status": {
+    "code": "200",
+    "message": "Thành công",
+    "label": "Success"
+  },
+  "data": [
+    {
+      "id": 1,
+      "code": "IMG001",
+      "name": "Demo Image 1",
+      "path": "/public/file/image/project/demo1.jpg",
+      "type": "LOGO",
+      "description": "Ảnh demo số 1",
+      "altText": "demo ảnh 1"
+    },
+    {
+      "id": 2,
+      "code": "IMG002",
+      "name": "Demo Image 2",
+      "path": "/public/file/image/project/demo2.jpg",
+      "type": "LOGO",
+      "description": "Ảnh demo số 2",
+      "altText": "demo ảnh 2"
+    }
+  ],
+  "extraData": null
+}
