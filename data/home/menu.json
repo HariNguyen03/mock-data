@@ -9,140 +9,267 @@
       "id": 1,
       "code": "HOME",
       "name": "home",
-      "url": "/",
-      "description": "Trang chủ",
-      "children": []
+      "status": true,
+      "page": [
+        {
+          "home": {
+            "url": "/",
+            "description": "Trang chủ",
+            "children": []
+          },
+          "dashboard": {
+            "url": "/dashboard/home",
+            "description": "Trang chủ",
+            "children": []
+          }
+        }
+      ]
     },
     {
       "id": 2,
       "code": "ABOUT",
       "name": "about",
-      "url": "/about",
-      "description": "Về chúng tôi",
-      "children": [
+      "status": true,
+      "page": [
         {
-          "id": 6,
-          "code": "COMPANY",
-          "name": "company",
-          "url": "/about/company",
-          "description": "Thông tin công ty",
-          "children": null
-        },
-        {
-          "id": 7,
-          "code": "LEADERSHIP",
-          "name": "leadership team",
-
-          "url": "/about/leadership_team",
-          "description": "Đội ngũ lãnh đạo",
-          "children": null
-        },
-        {
-          "id": 8,
-          "code": "EXPERIENCE",
-          "name": "experience",
-          "url": "/about/experience",
-          "description": "Kinh nghiệm",
-          "children": null
-        },
-        {
-          "id": 9,
-          "code": "PRICINGANDPLANS",
-          "name": "pricing and plans",
-          "url": "/about/pricing_and_plans",
-          "description": "Liên hệ",
-          "children": null
-        },
-        {
-          "id": 10,
-          "code": "FAQ",
-          "name": "faqs",
-          "url": "/about/faqs",
-          "description": "Câu hỏi",
-          "children": null
-        },
-        {
-          "id": 11,
-          "code": "CONTACT",
-          "name": "contact",
-          "url": "/about/contact",
-          "description": "Liên hệ đến công ty",
-          "children": null
+          "home": {
+            "url": "/about",
+            "description": "Về chúng tôi",
+            "children": [
+              {
+                "id": 3,
+                "code": "COMPANY",
+                "name": "company",
+                "status": true,
+                "url": "/about/company",
+                "description": "Thông tin công ty",
+                "children": null
+              },
+              {
+                "id": 4,
+                "code": "LEADERSHIPTEAM",
+                "name": "leadership team",
+                "status": true,
+                "url": "/about/leadership_team",
+                "description": "Đội ngũ lãnh đạo",
+                "children": null
+              },
+              {
+                "id": 5,
+                "code": "EXPERIENCE",
+                "name": "experience",
+                "status": true,
+                "url": "/about/experience",
+                "description": "Kinh nghiệm",
+                "children": null
+              },
+              {
+                "id": 6,
+                "code": "PRICINGANDPLANS",
+                "name": "pricing and plans",
+                "status": true,
+                "url": "/about/pricing_and_plans",
+                "description": "Liên hệ",
+                "children": null
+              },
+              {
+                "id": 7,
+                "code": "FAQ",
+                "name": "faqs",
+                "status": true,
+                "url": "/about/faqs",
+                "description": "Câu hỏi",
+                "children": null
+              },
+              {
+                "id": 8,
+                "code": "CONTACT",
+                "name": "contact",
+                "status": true,
+                "url": "/about/contact",
+                "description": "Liên hệ đến công ty",
+                "children": null
+              }
+            ]
+          },
+          "dashboard": {
+            "url": "/dashboard/about",
+            "description": "Về chúng tôi",
+            "children": [
+              {
+                "id": 9,
+                "code": "CMS_COMPANY",
+                "name": "company",
+                "status": true,
+                "url": "/dashboard/about/company",
+                "description": "Thông tin công ty",
+                "children": null
+              },
+              {
+                "id": 10,
+                "code": "CMS_LEADERSHIP",
+                "name": "leadership team",
+                "status": true,
+                "url": "/dashboard/about/leadership_team",
+                "description": "Đội ngũ lãnh đạo",
+                "children": null
+              },
+              {
+                "id": 11,
+                "code": "CMS_EXPERIENCE",
+                "name": "experience",
+                "status": true,
+                "url": "/dashboard/about/experience",
+                "description": "Kinh nghiệm",
+                "children": null
+              },
+              {
+                "id": 12,
+                "code": "CMS_PRICINGANDPLANS",
+                "name": "Pricing And Plans",
+                "status": true,
+                "url": "/dashboard/about/pricing_and_plans",
+                "description": "Giá cả",
+                "children": null
+              },
+              {
+                "id": 13,
+                "code": "CMS_FAQ",
+                "name": "Faqs",
+                "status": true,
+                "url": "/dashboard/about/faqs",
+                "description": "Câu hỏi",
+                "children": null
+              },
+              {
+                "id": 14,
+                "code": "CMS_CONTACT",
+                "name": "Contact",
+                "status": true,
+                "url": "/dashboard/about/contact",
+                "description": "Liên hệ đến công ty",
+                "children": null
+              }
+            ]
+          }
         }
       ]
     },
     {
-      "id": 3,
+      "id": 15,
       "code": "SERVICES",
       "name": "services",
-      "url": "/services",
-      "description": "Dịch vụ",
-      "children": []
+      "status": true,
+      "page": [
+        {
+          "home": {
+            "url": "/services",
+            "description": "Dịch vụ",
+            "children": []
+          },
+          "dashboard": {
+            "url": "/dashboard/services",
+            "description": "Dịch vụ",
+            "children": []
+          }
+        }
+      ]
     },
     {
-      "id": 4,
+      "id": 16,
       "code": "OUR_WORKS",
       "name": "our works",
-      "url": "/our_works",
-      "description": "Các dự án",
-      "children": [
+      "status": true,
+      "page": [
         {
-          "id": 17,
-          "code": "OUR_WORKS_CATEGORY",
-          "name": ":categorySlug",
-          "url": "/our_works/category/:categorySlug",
-          "description": "Chi tiết bài tuyển dụng",
-          "children": null
-        },
-        {
-          "id": 16,
-          "code": "OUR_WORKS_DETAIL",
-          "name": ":nameSlug",
-          "url": "/our_works/:nameSlug",
-          "description": "Chi tiết bài tuyển dụng",
-          "children": null
+          "home": {
+            "url": "/our_works",
+            "description": "Các dự án",
+            "children": []
+          },
+          "dashboard": {
+            "url": "/dashboard/our_works",
+            "description": "Các dự án",
+            "children": [
+              {
+                "id": 19,
+                "code": "CMS_OUR_WORKS_LIST",
+                "name": "List",
+                "status": true,
+                "url": "/dashboard/our_works/list",
+                "description": "Chi tiết bài tuyển dụng",
+                "children": null
+              },
+              {
+                "id": 20,
+                "code": "CMS_OUR_WORKS_CATEGORY",
+                "name": "Category",
+                "status": true,
+                "url": "/dashboard/our_works/category",
+                "description": "Chi tiết bài tuyển dụng",
+                "children": null
+              }
+            ]
+          }
         }
       ]
     },
     {
-      "id": 12,
+      "id": 21,
       "code": "RECRUITMENT",
       "name": "recruitment",
-      "url": "/recruitment",
-      "description": "Tuyển dụng công ty",
-      "children": [
+      "status": true,
+      "page": [
         {
-          "id": 15,
-          "code": "RECRUITMENT_DETAIL",
-          "name": ":nameSlug",
-          "url": "/recruitment/:nameSlug",
-          "description": "Chi tiết bài tuyển dụng",
-          "children": null
+          "home": {
+            "url": "/recruitment",
+            "description": "Tuyển dụng công ty",
+            "children": []
+          },
+          "dashboard": {
+            "url": "/dashboard/recruitment",
+            "description": "Tuyển dụng công ty",
+            "children": []
+          }
         }
       ]
     },
     {
-      "id": 5,
+      "id": 23,
       "code": "BLOG",
       "name": "blog",
-      "url": "/blog",
-      "description": "Bài viết",
-      "children": [
+      "status": true,
+      "page": [
         {
-          "id": 13,
-          "code": "BLOG_DETAIL",
-          "name": ":nameSlug",
-          "url": "/blog/:nameSlug",
-          "description": "Chi tiết bài viết",
-          "children": null
-        },
-        {
-          "id": 14,
-          "code": "BLOG_CATEGORY",
-          "name": ":categorySlug",
-          "url": "/blog/category/:categorySlug",
-          "description": "Danh mục bài viết",
-          "children": null
+          "home": {
+            "url": "/blog",
+            "description": "Bài viết",
+            "children": []
+          },
+          "dashboard": {
+            "url": "/dashboard/blog",
+            "description": "Bài viết",
+            "children": [
+              {
+                "id": 26,
+                "code": "CMS_BLOG_LIST",
+                "name": "List",
+                "status": true,
+                "url": "/dashboard/blog/list",
+                "description": "Danh sách bài viết",
+                "children": null
+              },
+              {
+                "id": 27,
+                "code": "CMS_BLOG_CATEGORY",
+                "name": "Category",
+                "status": true,
+                "url": "/dashboard/blog/category",
+                "description": "Danh mục bài viết",
+                "children": null
+              }
+            ]
+          }
         }
       ]
     }
