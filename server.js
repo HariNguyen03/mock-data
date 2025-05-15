@@ -152,7 +152,7 @@ server.get("/", (req, res) => {
     <body>
       <div class="container">
         <h1>API EXO JSON SERVER</h1>
-        <div class="subtitle">Current server API: <span style="color:#6ee7b7">https://mock-data-snyc.onrender.com</span></div>
+        <div class="subtitle">Current server API: <span style="color:#6ee7b7">https://mock-api-ujl0.onrender.com/</span></div>
         <div class="grid">
           ${generateHTML(endpoints)}
         </div>
