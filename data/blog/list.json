@@ -1,0 +1,62 @@
+{
+  "status": {
+    "code": "200",
+    "message": "Thành công",
+    "label": "Success"
+  },
+  "data": [
+    {
+      "id": 5,
+      "code": "bl5",
+      "categoryName": "health",
+      "title": "Bí quyết chăm sóc sức khỏe",
+      "image": "https://placehold.co/600x400",
+      "description": "Mô tả bài viết 5",
+      "createdDate": "2024-04-03T00:00:00"
+    },
+    {
+      "id": 4,
+      "code": "bl4",
+      "categoryName": "travel",
+      "title": "Kinh nghiệm du lịch Châu Âu",
+      "image": "https://placehold.co/600x400",
+      "description": "Mô tả bài viết 4",
+      "createdDate": "2024-04-02T00:00:00"
+    },
+    {
+      "id": 3,
+      "code": "bl3",
+      "categoryName": "education",
+      "title": "Học lập trình như thế nào?",
+      "image": "https://placehold.co/600x400",
+      "description": "Gợi ý về cách học lập trình hiệu quả cho người mới bắt đầu.",
+      "createdDate": "2024-04-01T00:00:00"
+    },
+    {
+      "id": 2,
+      "code": "bl2",
+      "categoryName": "tech",
+      "title": "AI và những thay đổi lớn trong năm 2024",
+      "image": "https://placehold.co/600x400",
+      "description": "AI đang tạo ra bước đột phá trong nhiều ngành công nghiệp, từ chăm sóc sức khỏe đến tài chính.",
+      "createdDate": "2024-03-31T00:00:00"
+    },
+    {
+      "id": 1,
+      "code": "bl1",
+      "categoryName": "review",
+      "title": "Tiêu đề bài viết 1",
+      "image": "https://placehold.co/600x400",
+      "description": "Mô tả bài viết 1",
+      "createdDate": "2024-03-30T00:00:00"
+    }
+  ],
+  "page": {
+    "total_pages": 3,
+    "has_next": true,
+    "has_previous": false,
+    "current_page": 1,
+    "total_elements": 6
+  },
+  "extraData": null
+}
