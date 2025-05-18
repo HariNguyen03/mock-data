@@ -1,0 +1,33 @@
+{
+  "status": {
+    "code": "200",
+    "message": "Thành công",
+    "label": "Success"
+  },
+  "data": {
+    "company": {
+      "title": "Company",
+      "childLinks": [
+        {"name": "company", "url": "/about/company"},
+        {"name": "leadership team", "url": "/about/leadership_team"},
+        {"name": "pricing and plans", "url": "/about/pricing_and_plans"}
+      ]
+    },
+    "services": {
+      "title": "Services",
+      "childLinks": [
+        {"name": "services", "url": "/services"},
+        {"name": "our works", "url": "/our_works"}
+      ]
+    },
+    "support": {
+      "title": "Support",
+      "childLinks": [
+        {"name": "contact", "url": "/about/contact"},
+        {"name": "faqs", "url": "/about/faqs"},
+        {"name": "blog", "url": "/blog"}
+      ]
+    }
+  },
+  "extraData": null
+}
