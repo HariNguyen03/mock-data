@@ -1,0 +1,30 @@
+{
+    "status": {
+        "code": "200",
+        "message": "Thành công",
+        "label": "Success"
+    },
+    "data": [
+        {
+            "id": 1,
+            "code": "PC001",
+            "title": "Pixel Lak"
+        },
+        {
+            "id": 2,
+            "code": "PC002",
+            "title": "UI/UX Design"
+        },
+        {
+            "id": 3,
+            "code": "PC003",
+            "title": "Web & App Development"
+        },
+        {
+            "id": 4,
+            "code": "PC004",
+            "title": "Custom Software"
+        }
+    ],
+    "extraData": null
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "categoryName": "IT Support",
+        "name": "Pixel Lak",
+        "description": "A SaaS-based platform for IT support and ticketing.",
+        "images": [
+            "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p2-1.jpg",
+            "https://picsum.photos/800/600?random=101",
+            "https://picsum.photos/800/600?random=102",
+            "https://picsum.photos/800/600?random=103"
+        ]
+    },
+    {
+        "id": 2,
+        "categoryName": "IT Support",
+        "name": "Zaloku.app",
+        "description": "Remote monitoring and IT asset management suite.",
+        "images": [
+            "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/f.jpg",
+            "https://picsum.photos/800/600?random=104",
+            "https://picsum.photos/800/600?random=105",
+            "https://picsum.photos/800/600?random=106"
+        ]
+    }
+]
+// lọc bài viết theo chủ đề

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "categoryName": "IT Support",
+        "name": "Pixel Lak",
+        "description": "A SaaS-based platform for IT support and ticketing.",
+        "images": [
+            "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p2-1.jpg",
+            "https://picsum.photos/800/600?random=101",
+            "https://picsum.photos/800/600?random=102",
+            "https://picsum.photos/800/600?random=103"
+        ],
+        "summary": " The Talent Solutions Optimization initiative is an improvement project for the organization toward recruitment, development, and retention strategies. This would involve enhancing the recruitment process, innovative employee development programs, and promotion of healthy workplace culture. This was a 12-month project undertaken by a team of 7 members. The key technologies applied in this project were PHP, Zend Framework, Laravel, OracleDB and SQL Server.",
+        "challenges": "These included long recruitment cycles, limited candidate diversity and weaknesses in onboarding and employee development which reduced productivity among recruits and long-term employees commitment. Obviously high turnover showed a need for a stronger retention strategies and a more positive workplace culture.",
+        "solution": "These gaps were overcome by the Team through data-driven optimization of the recruitment process that reduced time-to-hire while increasing the caliber of candidates. It instituted a thorough onboarding program and mentorship initiatives, workshops for training, and e-learning modules for further support continuous learning. The different retention strategies it provided included flexible work arrangements, wellness programs, and clear career progression pathways. Events that also help improve employee engagement and satisfaction in this regard were of a cultural nature, such as frequent employee feedback surveys and celebration around diversity.",
+        "outcome": "The initiative resulted in faster hiring processes, improved new hire productivity, and stronger employee engagement. The recruitment improvements enabled the organization to attract diverse talent more effectively, while the new development programs empowered employees to grow within the company. Retention rates improved due to the focus on flexible work and wellness initiatives, and employee satisfaction increased significantly, contributing to a more positive workplace culture."
+    }
+]
