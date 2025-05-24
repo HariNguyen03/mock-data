@@ -1,123 +1,97 @@
-[
-  {
-    "id": 1,
-    "categoryName": "IT Support",
-    "name": "Pixel Lak",
-    "description": "A SaaS-based platform for IT support and ticketing.",
-    "images": [
-      "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p2-1.jpg",
-      "https://picsum.photos/800/600?random=101",
-      "https://picsum.photos/800/600?random=102",
-      "https://picsum.photos/800/600?random=103"
-    ]
+{
+  "status": {
+    "code": "200",
+    "message": "Thành công",
+    "label": "Success"
   },
-  {
-    "id": 2,
-    "categoryName": "IT Support",
-    "name": "Zaloku.app",
-    "description": "Remote monitoring and IT asset management suite.",
-    "images": [
-      "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/f.jpg",
-      "https://picsum.photos/800/600?random=104",
-      "https://picsum.photos/800/600?random=105",
-      "https://picsum.photos/800/600?random=106"
-    ]
+  "data": [
+    {
+      "id": 10,
+      "code": "PROJ006",
+      "categoryName": "Custom Software",
+      "name": "AgriTech 4.0",
+      "slug": "agritech-4",
+      "description": "End-to-end IoT solution for rice farming automation in Mekong Delta",
+      "images": [
+        "https://picsum.photos/800/600?random=1027",
+        "https://picsum.photos/800/600?random=1028",
+        "https://picsum.photos/800/600?random=1010"
+      ]
+    },
+    {
+      "id": 9,
+      "code": "PROJ005",
+      "categoryName": "Web & App Development",
+      "name": "Vietnam Travel AI",
+      "slug": "vietnam-travel-ai",
+      "description": "AI-powered travel assistant with real-time translation and AR navigation",
+      "images": [
+        "https://picsum.photos/800/600?random=1024",
+        "https://picsum.photos/800/600?random=1025",
+        "https://picsum.photos/800/600?random=1026"
+      ]
+    },
+    {
+      "id": 8,
+      "code": "PROJ004",
+      "categoryName": "Custom Software",
+      "name": "MediTrack Pro",
+      "slug": "meditrack-pro",
+      "description": "Custom EHR system for private hospital chain with telemedicine features",
+      "images": [
+        "https://picsum.photos/800/600?random=1020",
+        "https://picsum.photos/800/600?random=1021",
+        "https://picsum.photos/800/600?random=1022",
+        "https://picsum.photos/800/600?random=1023"
+      ]
+    },
+    {
+      "id": 7,
+      "code": "PROJ003",
+      "categoryName": "Web & App Development",
+      "name": "GioiDiDong Pro",
+      "slug": "gioi-di-dong-pro",
+      "description": "B2B wholesale platform for electronics distributors with real-time inventory",
+      "images": [
+        "https://picsum.photos/800/600?random=1017",
+        "https://picsum.photos/800/600?random=1018",
+        "https://picsum.photos/800/600?random=1019"
+      ]
+    },
+    {
+      "id": 6,
+      "code": "PROJ002",
+      "categoryName": "UI/UX Design",
+      "name": "VietBank Mobile",
+      "slug": "vietbank-mobile",
+      "description": "Complete UI/UX redesign for Vietnam banking app with 10M+ users",
+      "images": [
+        "https://picsum.photos/800/600?random=1014",
+        "https://picsum.photos/800/600?random=1015",
+        "https://picsum.photos/800/600?random=1016"
+      ]
+    },
+    {
+      "id": 5,
+      "code": "PROJ001",
+      "categoryName": "Pixel Lak",
+      "name": "Pixel Lak",
+      "slug": "pixel-lak",
+      "description": "A SaaS-based platform for IT support and ticketing.",
+      "images": [
+        "https://picsum.photos/800/600?random=1010",
+        "https://picsum.photos/800/600?random=1011",
+        "https://picsum.photos/800/600?random=1012",
+        "https://picsum.photos/800/600?random=1013"
+      ]
+    }
+  ],
+  "page": {
+    "total_pages": 1,
+    "has_next": false,
+    "has_previous": false,
+    "current_page": 0,
+    "total_elements": 6
   },
-  {
-    "id": 3,
-    "categoryName": "UI/UX Design",
-    "name": "Avante.vn",
-    "description": "Modern UI for fintech mobile apps.",
-    "images": [
-      "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/lg.jpg",
-      "https://picsum.photos/800/600?random=107",
-      "https://picsum.photos/800/600?random=108",
-      "https://picsum.photos/800/600?random=109"
-    ]
-  },
-  {
-    "id": 4,
-    "categoryName": "Web & App Development",
-    "name": "Lotus.io",
-    "defaultImage": "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p6.jpg",
-    "hoverImage": "https://picsum.photos/800/600?random=4",
-    "description": "E-commerce app with real-time inventory sync.",
-    "images": [
-      "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p6.jpg",
-      "https://picsum.photos/800/600?random=1010",
-      "https://picsum.photos/800/600?random=1011",
-      "https://picsum.photos/800/600?random=1012"
-    ]
-  },
-  {
-    "id": 5,
-    "categoryName": "Custom Software",
-    "name": "Avante.vn",
-    "defaultImage": "https://picsum.photos/800/600?random=5",
-    "hoverImage": "https://picsum.photos/800/600?random=6",
-    "description": "Custom ERP system for manufacturing firm.",
-    "images": [
-      "https://picsum.photos/800/600?random=1013",
-      "https://picsum.photos/800/600?random=114",
-      "https://picsum.photos/800/600?random=115",
-      "https://picsum.photos/800/600?random=116"
-    ]
-  },
-  {
-    "id": 6,
-    "categoryName": "Web & App Development",
-    "name": "Tikpay.com",
-    "defaultImage": "https://picsum.photos/800/600?random=7",
-    "hoverImage": "https://picsum.photos/800/600?random=8",
-    "description": "On-site IT troubleshooting service system.",
-    "images": [
-      "https://picsum.photos/800/600?random=117",
-      "https://picsum.photos/800/600?random=118",
-      "https://picsum.photos/800/600?random=119",
-      "https://picsum.photos/800/600?random=120"
-    ]
-  },
-  {
-    "id": 7,
-    "categoryName": "abc",
-    "name": "Tikpay.com",
-    "defaultImage": "https://picsum.photos/800/600?random=7",
-    "hoverImage": "https://picsum.photos/800/600?random=8",
-    "description": "On-site IT troubleshooting service system.",
-    "images": [
-      "https://picsum.photos/800/600?random=117",
-      "https://picsum.photos/800/600?random=118",
-      "https://picsum.photos/800/600?random=119",
-      "https://picsum.photos/800/600?random=120"
-    ]
-  },
-  {
-    "id": 8,
-    "categoryName": "xyz",
-    "name": "Tikpay.com",
-    "defaultImage": "https://picsum.photos/800/600?random=7",
-    "hoverImage": "https://picsum.photos/800/600?random=8",
-    "description": "On-site IT troubleshooting service system.",
-    "images": [
-      "https://picsum.photos/800/600?random=117",
-      "https://picsum.photos/800/600?random=118",
-      "https://picsum.photos/800/600?random=119",
-      "https://picsum.photos/800/600?random=120"
-    ]
-  },
-  {
-    "id": 9,
-    "categor": "aaaa",
-    "name": "Tikpay.com",
-    "defaultImage": "https://picsum.photos/800/600?random=7",
-    "hoverImage": "https://picsum.photos/800/600?random=8",
-    "description": "On-site IT troubleshooting service system.",
-    "images": [
-      "https://picsum.photos/800/600?random=117",
-      "https://picsum.photos/800/600?random=118",
-      "https://picsum.photos/800/600?random=119",
-      "https://picsum.photos/800/600?random=120"
-    ]
-  }
-]
-// show all
+  "extraData": null
+}

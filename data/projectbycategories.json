@@ -1,27 +1,43 @@
-[
-    {
-        "id": 1,
-        "categoryName": "IT Support",
-        "name": "Pixel Lak",
-        "description": "A SaaS-based platform for IT support and ticketing.",
-        "images": [
-            "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p2-1.jpg",
-            "https://picsum.photos/800/600?random=101",
-            "https://picsum.photos/800/600?random=102",
-            "https://picsum.photos/800/600?random=103"
-        ]
+{
+    "status": {
+        "code": "200",
+        "message": "Thành công",
+        "label": "Success"
     },
-    {
-        "id": 2,
-        "categoryName": "IT Support",
-        "name": "Zaloku.app",
-        "description": "Remote monitoring and IT asset management suite.",
-        "images": [
-            "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/f.jpg",
-            "https://picsum.photos/800/600?random=104",
-            "https://picsum.photos/800/600?random=105",
-            "https://picsum.photos/800/600?random=106"
-        ]
-    }
-]
-// lọc bài viết theo chủ đề
+    "data": [
+        {
+            "id": 9,
+            "code": "PROJ005",
+            "categoryName": "Web & App Development",
+            "name": "Vietnam Travel AI",
+            "slug": "vietnam-travel-ai",
+            "description": "AI-powered travel assistant with real-time translation and AR navigation",
+            "images": [
+                "https://picsum.photos/800/600?random=1024",
+                "https://picsum.photos/800/600?random=1025",
+                "https://picsum.photos/800/600?random=1026"
+            ]
+        },
+        {
+            "id": 7,
+            "code": "PROJ003",
+            "categoryName": "Web & App Development",
+            "name": "GioiDiDong Pro",
+            "slug": "gioi-di-dong-pro",
+            "description": "B2B wholesale platform for electronics distributors with real-time inventory",
+            "images": [
+                "https://picsum.photos/800/600?random=1017",
+                "https://picsum.photos/800/600?random=1018",
+                "https://picsum.photos/800/600?random=1019"
+            ]
+        }
+    ],
+    "page": {
+        "total_pages": 1,
+        "has_next": false,
+        "has_previous": false,
+        "current_page": 1,
+        "total_elements": 2
+    },
+    "extraData": null
+}

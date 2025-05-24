@@ -26,5 +26,12 @@
             "title": "Custom Software"
         }
     ],
+    "page": {
+        "total_pages": 1,
+        "has_next": false,
+        "has_previous": false,
+        "current_page": 0,
+        "total_elements": 4
+    },
     "extraData": null
 }
