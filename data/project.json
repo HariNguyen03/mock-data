@@ -61,11 +61,13 @@
     {
       "id": 6,
       "code": "PROJ002",
-      "categoryName": "Web & App Development",
-      "name": "VietBank Mobile",
-      "slug": "vietbank-mobile",
-      "description": "Complete UI/UX redesign for Vietnam banking app with 10M+ users",
+      "categoryName": "IT Support",
+      "name": "Zaloku.app",
+      "slug": "Zaloku.app",
+      "description": "Is a document platform that allows users to view, edit, and share PDF documents seamlessly. It integrates with cloud storage services, making it easy to access and collaborate on documents from anywhere.",
       "images": [
+        "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p1.jpg",
+        "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p3.jpg",
         "https://picsum.photos/800/600?random=1014",
         "https://picsum.photos/800/600?random=1015",
         "https://picsum.photos/800/600?random=1016"
@@ -74,12 +76,13 @@
     {
       "id": 5,
       "code": "PROJ001",
-      "categoryName": "Custom Software",
+      "categoryName": "IT Support",
       "name": "Pixel Lak",
       "slug": "pixel-lak",
-      "description": "A SaaS-based platform for IT support and ticketing.",
+      "description": "Is a document platform that allows users to view, edit, and share PDF documents seamlessly. It integrates with cloud storage services, making it easy to access and collaborate on documents from anywhere.",
       "images": [
-        "https://picsum.photos/800/600?random=1010",
+        "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p6.jpg",
+        "https://live.21lab.co/kiraz/wp-content/uploads/2024/10/p2-1.jpg",
         "https://picsum.photos/800/600?random=1011",
         "https://picsum.photos/800/600?random=1012",
         "https://picsum.photos/800/600?random=1013"
