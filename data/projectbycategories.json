@@ -36,7 +36,7 @@
         "total_pages": 1,
         "has_next": false,
         "has_previous": false,
-        "current_page": 1,
+        "current_page": 0,
         "total_elements": 2
     },
     "extraData": null
