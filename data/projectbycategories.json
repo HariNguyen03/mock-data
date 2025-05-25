@@ -30,6 +30,19 @@
                 "https://picsum.photos/800/600?random=1018",
                 "https://picsum.photos/800/600?random=1019"
             ]
+        },
+        {
+            "id": 6,
+            "code": "PROJ002",
+            "categoryName": "Web & App Development",
+            "name": "VietBank Mobile",
+            "slug": "vietbank-mobile",
+            "description": "Complete UI/UX redesign for Vietnam banking app with 10M+ users",
+            "images": [
+                "https://picsum.photos/800/600?random=1014",
+                "https://picsum.photos/800/600?random=1015",
+                "https://picsum.photos/800/600?random=1016"
+            ]
         }
     ],
     "page": {
